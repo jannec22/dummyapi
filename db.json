@@ -1,5 +1,6 @@
 {
 	"vars": {
-		"var_1": "some text"
+		"var_1": "some text",
+		"var_2": "29/12/2000 16:18"
 	}
 }
