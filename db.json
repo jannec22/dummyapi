@@ -1,6 +1,12 @@
 {
-	"vars": {
-		"var_1": "some text",
-		"var_2": "29/12/2000 16:18"
+	"sources": {
+		"0": {
+			"source": {
+				"data": {
+					"var_1": "some text",
+					"var_2": "29/12/2000 16:18"
+				}
+			}
+		}
 	}
 }
