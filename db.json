@@ -8,5 +8,12 @@
 			"var_1": "some text 2",
 			"var_2": "29/12/2000 16:19"
 		}
+	},
+	"array": [
+	[
+	{
+		"text": "some fetched text"
 	}
+	]
+	]
 }
