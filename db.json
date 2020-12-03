@@ -17,5 +17,16 @@
       }
     ],
     "ssss srgsr rrbr"
-  ]
+  ],
+  "auth": {
+    "ok": true,
+    "token": "a secret token",
+    "refresh": "even more secret refresh token"
+  },
+  "permissions": {
+    "routes": {
+      "dashboard": true,
+      "screens": true
+    }
+  }
 }
